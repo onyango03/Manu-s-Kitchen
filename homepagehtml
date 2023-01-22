@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Hotel website</title>
+  </head>
+  <body>
+    <h1 style="color: darkgreen">
+      <center><u>Manu's Kitchen.</u></center>
+    </h1>
+    <img src="/Images/manus.png" alt="" />
+
+    <p>
+      <center>
+        Manu's Kitchen is a family restaurant that focuses on rekindling familial bonds.Its serene environment has been the setting for hundreds
+        of memories, all of which have been built with food. It is located in Nairobi's Central business district. Make time to embrace its presence.
+      </center>
+    </p>
+    <img src="/Images/istockphoto-1006630120-612x612.jpg" alt="" width="350" />
+    <img src="/Images/images.jpeg" alt="" width="312" />
+    <br />
+
+    <p>
+      <center>
+        All ingredients are acquired locally from farmers markets and partner farms. We are utilizing local suppliers to produce farm-to-table dishes, which means more money is flowing into the local community. We make every effort to serve the freshest delicacies possible.
+        At Manus Kitchen, we endeavor to tantalize your taste buds with exotic food sand dishes. 
+      </center>
+    </p>
+    <img src="/Images/pexels-julie-aagaard-2433868.jpg" alt="" width="300" />
+    <br />
+
+    <p>
+      <center>
+        We have talented world-class chefs from all walks of life who share a similar passion: their love of cooking. Their various backgrounds,
+        experiences, perspectives and credentials all culmiate brilliantly in Manu's kitchen, making it the culinary capital of Nairobi. 
+        To add on that, we are community cornerstones where many young people get their first jobs and where adults begin fulfilling careers.
+        We take pleasure in constantly having fresh roles available to reduce young unemployment.
+      </center>
+    </p>
+    <img src="/Images/chefs.jpeg" alt="" width="400" />
+    <img src="/Images/images chef (1).jpeg" alt="" width="300" />
+    <br />
+
+    <a href="menu.html"><center>The menu</center></a>
+    <a href="career.html"><center>Careers Section</center></a>
+    <a href="order.html"><center>Online orders</center></a>
+    <hr />
+
+    <p>
+      We are located in the heart of the bustling heart of Nairobi CBD. 122
+      <sup>nd</sup> avenue off Kenyatta road Opposite Kenya Cinemas.
+    </p>
+    <p style="color: darkolivegreen;">See you there.</p>
+    <p>Copyright &#169;</p>
+  </body>
+</html>
